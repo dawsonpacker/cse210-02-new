@@ -1,5 +1,8 @@
  
 
+from hilo.player.director import Director
+from game.service.video_service import Video_Service
+from game.service.keyboard_service import Keyboard_Service
 
 want_to_play_game = 'y'
  
